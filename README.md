@@ -15,7 +15,7 @@ Local Development
 To run this project on your computer, follow these steps:
 
 Clone this repository from GitHub:
-git clone https://github.com/your-username/admin-dashboard.git
+git clone https://github.com/cseishrakul/admin-dashboard.git
 Navigate to the project folder:
 cd admin-dashboard
 Install project dependencies:
