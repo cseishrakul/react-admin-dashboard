@@ -1,0 +1,9 @@
+            /* -------------- React Admin Dashboard -------------- */
+        
+1. Lets install some packages for this dashboard:
+"@emotion/react","@emotion/styled","@fullcalendar/core","@fullcalendar/daygrid","@fullcalendar/list","@fullcalendar/timegrid","fullcalendar/react","fullcalendar/interaction" ,"@mui/icons-material","@mui/material", "@mui/x-data-grid","@nivo/bar","@nivo/core","@nivo/geo", "@nivo/line","@nivo/pie","formik","react-pro-sidebar","react-router-dom","yup"....
+
+2. Lets setup our project with folder structure.
+3. Lets work on our topbar
+    
+            /* -------------- End React Admin Dashboard -------------- */
