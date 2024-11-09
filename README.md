@@ -23,7 +23,4 @@ npm install
 Start the development server:
 npm start
 Access the project: Open your browser and go to http://localhost:3000 to view the admin dashboard.
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
